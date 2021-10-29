@@ -9,4 +9,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![Roblox](https://tr.rbxcdn.com/e131ce2b431eae7f7dfef55c9a24aa1d/352/352/Avatar/Png)
+![Roblox](https://www.roblox.com/avatar-thumbnail/image?userId=637532146&width=420&height=420&format=png)
