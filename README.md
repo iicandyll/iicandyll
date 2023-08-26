@@ -1,5 +1,7 @@
 # zoccorus
-
+I Quit GitHub For Today
+This is a final repository comming on 2024 (Maybe)...
+That's all, Goodbye!
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoccorus&theme=light&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoccorus&theme=light)
 
