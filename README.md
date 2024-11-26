@@ -1,17 +1,13 @@
-# zoccorus
-I Quit GitHub For Today
+## candy
+Just kidding i'm back
+(going to remove unecessary repositories)
 
-This is a final repository comming on 2024 (Maybe)...
-
-That's all, Goodbye!
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoccorus&theme=light&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zoccorus&theme=light)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realcandyuwu&theme=light&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realcandyuwu&theme=light)
 
 <!---
 zoccorus/zoccorus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-
-![Roblox](https://tr.rbxcdn.com/30DAY-Avatar-24D9B06683BB59E2216EF22A7BDBB8AA-Png/352/352/Avatar/Png/noFilter)
+![my profile](https://raw.githubusercontent.com/realcandyuwu/realcandyuwu/refs/heads/main/Screenshot_2024-11-17-17-03-13-796_com.tapblaze.pizzabusiness.jpg)
