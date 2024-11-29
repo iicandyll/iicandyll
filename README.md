@@ -1,5 +1,5 @@
 ## candy
-`**Just kidding i'm back**`
+*Just kidding i'm back*
 (going to remove unecessary repositories)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realcandyuwu&theme=light&show_icons=true)
