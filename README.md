@@ -10,4 +10,4 @@ zoccorus/zoccorus is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-![my profile](https://raw.githubusercontent.com/realcandyuwu/realcandyuwu/refs/heads/main/Screenshot_2024-11-17-17-03-13-796_com.tapblaze.pizzabusiness.jpg)
+![my profile](https://raw.githubusercontent.com/realcandyuwu/realcandyuwu/refs/heads/main/channels4_profile.jpg)
