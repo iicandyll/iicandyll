@@ -1,5 +1,5 @@
 ## candy
-*Just kidding i'm back*
+*i quit*
 (going to remove unecessary repositories)
 Hello, i am playing Good Pizza, Great Pizza to get 10,000 days.
 
